@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adimehare
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on C# web apps
+- 💞️ I’m looking to collaborate on .net web apps
 - 📫 How to reach me adi.mehare@gmail.com
 
 <!---
